@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<taxis>
+	<taxiList>
+		<taxiId>123</taxiId>
+		<taxiDiverName>Pavithra</taxiDiverName>
+		<taxiDiverPhone>987232354</taxiDiverPhone>
+		<available>true</available>
+		<nextAvailableTime>9.00</nextAvailableTime>
+		<location>A</location>
+		<tripCount>0</tripCount>
+	</taxiList>
+	<taxiList>
+		<taxiId>124</taxiId>
+		<taxiDiverName>Vaishnavi</taxiDiverName>
+		<taxiDiverPhone>912344342</taxiDiverPhone>
+		<available>true</available>
+		<nextAvailableTime>9.00</nextAvailableTime>
+		<location>A</location>
+		<tripCount>0</tripCount>
+	</taxiList>
+	<taxiList>
+		<taxiId>125</taxiId>
+		<taxiDiverName>Pooja</taxiDiverName>
+		<taxiDiverPhone>934642121</taxiDiverPhone>
+		<available>true</available>
+		<nextAvailableTime>9.00</nextAvailableTime>
+		<location>A</location>
+		<tripCount>0</tripCount>
+	</taxiList>
+	<taxiList>
+		<taxiId>126</taxiId>
+		<taxiDiverName>Sandhya</taxiDiverName>
+		<taxiDiverPhone>94565454</taxiDiverPhone>
+		<available>true</available>
+		<nextAvailableTime>9.00</nextAvailableTime>
+		<location>A</location>
+		<tripCount>0</tripCount>
+	</taxiList>
+</taxis>
